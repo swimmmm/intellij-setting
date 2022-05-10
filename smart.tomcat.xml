@@ -1,0 +1,11 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/9.0.62" />
+        <option name="path" value="/opt/homebrew/Cellar/tomcat@9/9.0.62/libexec" />
+        <option name="version" value="9.0.62.0" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
