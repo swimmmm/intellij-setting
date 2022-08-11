@@ -26,6 +26,10 @@
           <option name="url" value="http://git.abouthere.kr/outbound/yeogi-air-cms-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.abouthere.kr/outbound/yeogi-air-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Development/Project/gc/outbound/air" />
